@@ -11,7 +11,7 @@ class TodoController extends Controller
      */
     public function index()
     {
-        //
+        return '<h1>Isso é tudo, pessoal!</h1>';
     }
 
     /**
